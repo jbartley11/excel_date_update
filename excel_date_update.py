@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# In[11]:
-
-
 # ensure field names in excel file have no extra spaces or special characters
 # change everything under excel variables and feature class variables
 # log file will be created in same folder as python file is located
