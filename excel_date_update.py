@@ -14,13 +14,13 @@ import pandas as pd
 import sys
 
 # excel variables
-excel_file = r"C:\Users\jaso9356\Desktop\dev\py\date_update\date_update.xlsx"
+excel_file = r""
 sheet_name = "Sheet1"
 excel_parcel_field = "Parcel Number"
 excel_date_field = "Date"
 
 # feature class variables
-feature_class = r"C:\Users\jaso9356\Documents\ArcGIS\Projects\kim\kim.gdb\tracts"
+feature_class = r""
 fc_parcel_field = "parcel_num"
 fc_date_field = "title_date"
 
